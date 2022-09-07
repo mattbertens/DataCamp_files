@@ -1,17 +1,3 @@
-# These data are from the paper,
-#   Kleinteich and Gorb, Sci. Rep., 4, 5225, 2014.
-# It was featured in the New York Times.
-#    http://www.nytimes.com/2014/08/25/science/a-frog-thats-a-living-breathing-pac-man.html
-#
-# The authors included the data in their supplemental information.
-#
-# Importantly, the ID refers to the identifites of the frogs they tested.
-#   I:   adult, 63 mm snout-vent-length (SVL) and 63.1 g body weight,
-#        Ceratophrys cranwelli crossed with Ceratophrys cornuta
-#   II:  adult, 70 mm SVL and 72.7 g body weight,
-#        Ceratophrys cranwelli crossed with Ceratophrys cornuta
-#   III: juvenile, 28 mm SVL and 12.7 g body weight, Ceratophrys cranwelli
-#   IV:  juvenile, 31 mm SVL and 12.7 g body weight, Ceratophrys cranwelli
 date,ID,trial number,impact force (mN),impact time (ms),impact force / body weight,adhesive force (mN),time frog pulls on target (ms),adhesive force / body weight,adhesive impulse (N-s),total contact area (mm2),contact area without mucus (mm2),contact area with mucus / contact area without mucus,contact pressure (Pa),adhesive strength (Pa)
 2013_02_26,I,3,1205,46,1.95,-785,884,1.27,-0.290,387,70,0.82,3117,-2030
 2013_02_26,I,4,2527,44,4.08,-983,248,1.59,-0.181,101,94,0.07,24923,-9695
